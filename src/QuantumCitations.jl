@@ -3,9 +3,7 @@ module QuantumCitations
 using Documenter
 using Documenter.Anchors
 using Documenter.Builder
-using Documenter.Documents
 using Documenter.Selectors
-using Documenter.Utilities
 using Documenter.Expanders
 using Documenter.Writers.HTMLWriter
 
